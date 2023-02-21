@@ -1,0 +1,1 @@
+Note: Use -pthread option along with gcc if you're not able to compile.

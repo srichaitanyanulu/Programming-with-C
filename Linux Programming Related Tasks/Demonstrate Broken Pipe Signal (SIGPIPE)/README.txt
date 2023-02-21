@@ -1,0 +1,1 @@
+Note: It takes 2 seconds for the output to be displayed
